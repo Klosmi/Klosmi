@@ -1,4 +1,4 @@
-### Hi I'm Miklós (pronounced in English Micklosh, en français Miqulosch).
+# Hi I'm Miklós (pronounced in English Micklosh, en français Miqulosch).
 
-## I am a full-stack developer
+### I am a full-stack developer
 
