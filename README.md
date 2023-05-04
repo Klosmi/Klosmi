@@ -1,5 +1,5 @@
 # Hi I'm Miklós 👋
-(pronounced in English Micklo __sh__, en français Miqulo __sch__).
+(pronounced in English Micklo**sh**, en français Miqulo**sch**).
 
 Are you looking for a skilled front-end web developer, type designer, and graphic designer? Look no further! Let me introduce myself.
 
